@@ -1,1 +1,1 @@
-Sitemap: https://khengoon.github.io/sitemap.xml
+Sitemap: https://khengoon.github.io/mlnotes/sitemap.xml
